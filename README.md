@@ -1,1 +1,3 @@
-# atlas22
+# Atlas22 challenge solution
+
+Team: NVAUTO
